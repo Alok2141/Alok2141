@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Alok2141/Alok2141/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Alok kumar</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
